@@ -1,0 +1,5 @@
+If we use 3DSMax without Flipping Normals checked when importing .OBJ file,
+the original normals from wm0.map are inverted.
+This is the way to go, but the mesh gets dark in 3DSMax.
+To see the mesh, you must go to Rendering->Environment (shortcut key 8) and
+in 'Global Lightning' section, use a WHITE color in 'Ambient' part.

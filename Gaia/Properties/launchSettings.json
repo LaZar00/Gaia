@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "Gaia": {
+      "commandName": "Executable",
+      "executablePath": "D:\\Coding\\Gaia\\Gaia\\bin\\Debug\\net48\\Gaia.exe",
+      "commandLineArgs": "wm0testTEX.obj"
+    }
+  }
+}

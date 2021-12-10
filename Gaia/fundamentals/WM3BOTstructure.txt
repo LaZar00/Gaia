@@ -1,0 +1,15 @@
+GRID
+MAP(BOT) MAP(BOT)
+MAP(BOT) MAP(BOT)
+
+WM2.MAP (Total Blocks: 4 Blocks, 0-3)
+WM2.BOT (Total Blocks: 4 * 4 = 16 Blocks, 0-15)
+
+
+-- MAIN MAP (Blocks 0-3, Total: 16 Blocks)
+ 0(0)  1(1)     1(4)  0(5)
+ 2(2)  3(3)     3(6)  2(7)
+
+ 2(8)  3(9)    3(12)  2(13)
+ 0(10) 1(11)   1(14)  0(15)
+
